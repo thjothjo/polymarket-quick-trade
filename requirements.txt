@@ -1,6 +1,6 @@
-aiohttp==3.9.5
-web3==6.19.0
-requests==2.32.3
-python-dotenv==1.0.1
-websockets==12.0
-pyclob-polymarket==1.0.14
+aiohttp>=3.9
+web3>=6.0
+requests>=2.31
+python-dotenv>=1.0
+websockets>=12.0
+py-clob-client-v2>=1.0

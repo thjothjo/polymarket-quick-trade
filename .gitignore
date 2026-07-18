@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+持仓/
+username_cache.json
