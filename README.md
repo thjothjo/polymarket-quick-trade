@@ -2,6 +2,9 @@
 
 一个支持 Polymarket 多市场的快捷交易面板，并集成实时的链上盈亏与大户交易排名榜单。
 
+Powered by PolyEcho - The Zero-Latency Polymarket Copy Trading Platform
+https://polyechotrade.com/
+
 ![交易面板展示](screenshot.jpg)
 
 ## 注意事项
@@ -94,5 +97,7 @@ python onchain_leaderboard.py --once
 # 指定回合时间戳查询历史排名
 python onchain_leaderboard.py --ts 1775757000
 ```
+
+
 
 
