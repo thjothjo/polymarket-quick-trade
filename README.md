@@ -1,9 +1,10 @@
+# Powered by PolyEcho - The Zero-Latency Polymarket Copy Trading Platform
+https://polyechotrade.com/
+
 # Polymarket Quick Trade & Onchain Leaderboard
 
 一个支持 Polymarket 多市场的快捷交易面板，并集成实时的链上盈亏与大户交易排名榜单。
 
-Powered by PolyEcho - The Zero-Latency Polymarket Copy Trading Platform
-https://polyechotrade.com/
 
 ![交易面板展示](screenshot.jpg)
 
